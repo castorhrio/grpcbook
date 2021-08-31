@@ -1,0 +1,62 @@
+{
+ "id": "c3c66749-55c3-4562-b81f-6962aee48e6b",
+ "brand": "Apple",
+ "name": "Macbook Air",
+ "cpu": {
+  "brand": "AMD",
+  "name": "RyZen 7 PRO 2700U",
+  "number_cors": 8,
+  "number_threads": 10,
+  "min_ghz": 2.7549450532329565,
+  "max_ghz": 3.9667270425339467
+ },
+ "memory": {
+  "value": "37",
+  "unit": "GIGABYTE"
+ },
+ "gpus": [
+  {
+   "brand": "NVIDIA",
+   "name": "GTX 1070",
+   "min_ghz": 1.0569318115734616,
+   "max_ghz": 1.5597088083687747,
+   "memory": {
+    "value": "6",
+    "unit": "GIGABYTE"
+   }
+  }
+ ],
+ "storages": [
+  {
+   "driver": "SSD",
+   "memory": {
+    "value": "744",
+    "unit": "GIGABYTE"
+   }
+  },
+  {
+   "driver": "HDD",
+   "memory": {
+    "value": "2",
+    "unit": "TERAVYTE"
+   }
+  }
+ ],
+ "screen": {
+  "size_inch": 14.359701,
+  "resolution": {
+   "width": 6862,
+   "height": 3860
+  },
+  "panel": "IPS",
+  "mutitouch": true
+ },
+ "keyboard": {
+  "layout": "QWERTY",
+  "backlit": false
+ },
+ "weight_kg": 1.6134213416139822,
+ "price_usd": 2033.698726579676,
+ "release_year": 2015,
+ "update_at": "2021-08-31T18:33:31.496932083Z"
+}
